@@ -3,7 +3,7 @@
 
 // Screen dimensions (adjust as needed)
 #define SCREEN_WIDTH 1280
-#define SCREEN_HEIGHT 720
+#define SCREEN_HEIGHT 720 
 
 int main(void) {
     SDL_Window* window = NULL;
