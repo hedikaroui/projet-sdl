@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "header.h"
+#include "header.h"    
 
 #define CURSOR_BLINK_MS 500  // Blink every 500ms
 
