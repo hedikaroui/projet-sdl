@@ -8,7 +8,7 @@
 void set_sequence_input(Sequence* seq, const char* placeholder) {
     if (!seq) return;
 
-    seq->is_input       = 1;
+    seq->is_input        = 1;
     seq->is_focused     = 0;
     seq->input_buffer[0] = '\0';
     seq->cursor_pos     = 0;
